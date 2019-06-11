@@ -1,4 +1,9 @@
-# workshop-template
+# Software Carpentry Workshop @ T.U. Eindhoven
+
+BELOW THIS POINT ARE INSTRUCTIONS TO SET UP THE WEBSITE. This is useless for students... To be cleaned soon!
+
+---------------------
+
 
 This repository is The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
 template for creating websites for workshops.
