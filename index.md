@@ -7,13 +7,13 @@ address: "To be defined"      # full street address of workshop (e.g., "Room A, 
 country: "nl"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "FIXME"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "FIXME"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humandate: "September 2019, 25th and 26th"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "from 09:00 to 16:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-09-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-09-26        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Nicolas Dintzner","To be announced"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TO be announced"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["N.J.R.Dintzner@tudelft.nl"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+instructor: ["Nicolas Dintzner"," second instructor to be announced"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["helper_1", ""Helper_2","Helper_3"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["N.J.R.Dintzner@tudelft.nl","others to be announced"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: to be announced            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: to be setup           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
